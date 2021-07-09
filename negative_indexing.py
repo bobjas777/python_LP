@@ -1,0 +1,15 @@
+parrot="Norwegian Blue"
+print(parrot[3])
+print(parrot[4])
+print(parrot[9])
+print(parrot[3])
+print(parrot[6])
+print(parrot[8])
+#testing strings with negative indexing
+print("="*20)
+print(parrot[-14+3])
+print(parrot[-14+4])
+print(parrot[-14+9])
+print(parrot[-14+3])
+print(parrot[-14+6])
+print(parrot[-14+8])
